@@ -151,8 +151,8 @@ This module also includes a potentiometer that will fix the threshold value, & t
 
 ##  Program 
 ```
-Developed by:Samyuktha S
-Regster Number:212222240089
+Developed by:RAJESH A
+Regster Number:212222100042
 ````
 ```py
 
@@ -188,12 +188,13 @@ while(1)
 }
 ```
 ## Result :
+![pmcexp8 1](https://github.com/Rajeshanbu/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/118924713/63864bbe-3507-4476-877f-a2bc6ce0c7a5)
 
-![Uploading pmcexp8.1.png…]()
+![exppmc8 2](https://github.com/Rajeshanbu/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/118924713/42ed3e8c-71db-4931-9001-36773cadc9f3)
 
-![Uploading exppmc8.2.jpg…]()
- 
-![Uploading exppmc8.3.png…]()
+![exppmc8 3](https://github.com/Rajeshanbu/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/118924713/f5e78dba-9ff8-4b8c-9c81-b5e07569c130)
+
+
 
 ## Output  :
 Configured an analog port for stm 32 controller and read the values on the serial port successfully.
